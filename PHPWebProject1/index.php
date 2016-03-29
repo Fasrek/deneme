@@ -1,5 +1,7 @@
 <?php
 
-echo "Hello World!";
+$sayi=5;
+
+echo $sayi;
 
 ?>
